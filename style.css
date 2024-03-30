@@ -1,8 +1,14 @@
-body {
-    background-color: lavender;
+
+  body {
+    /* background-color: lavender; */
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
+    font-family: 'Arial', sans-serif;
+    background-image:url('bgimg.png');
+    background-size:cover;
+    background-position: center;
+    background-repeat: no-repeat;
   }
 
   /* CSS for Home Section */
